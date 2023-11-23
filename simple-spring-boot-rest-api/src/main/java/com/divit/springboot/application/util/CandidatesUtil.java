@@ -18,7 +18,7 @@ public final class CandidatesUtil {
 	 */
 	public static List<Candidate> getCandidates() {
 		var candidateList = List.of(
-				new Candidate("HusseinHajHassan", 222794, Set.of("java", "c#", "c++", "python")),
+				new Candidate("HusseinHajHassan", 222794, Set.of("java", "c#", "c++", "python")));
 				
 
 		return candidateList;
